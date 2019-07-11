@@ -1,2 +1,2 @@
 # helpers - RG
-Codigos de ayuda para la programación
+Se crea este repositorio con la finalidad de tener helpers de consulta para soluciones cotidianos en la programación.
